@@ -59,21 +59,7 @@ The Power BI dashboard provides an interactive overview of the Netflix catalog.
 
 ---
 
-## 📸 Dashboard Screenshots
 
-### Netflix Content Analysis Dashboard
-
-![Netflix Dashboard](Screenshots/dashboard.png)
-
-### Netflix Recommendation System
-
-![Netflix Recommendations](Screenshots/recommendations.png)
-
-### ML Recommendation Output
-
-![ML Recommendations](Screenshots/ml_recommendations.png)
-
-## 🤖 Recommendation System
 
 A **Content-Based Recommendation System** was developed using TF-IDF and Cosine Similarity.
 
